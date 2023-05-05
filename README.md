@@ -10,3 +10,6 @@
 
 ## Tiger
 [Click for More...](./tiger.md)
+
+## Whale
+[Click for More...](./whale.md)
