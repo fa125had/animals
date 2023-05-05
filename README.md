@@ -1,9 +1,12 @@
 # List of the Animals
 ## Cat
-[link](./cat.md)
+[Click for More...](./cat.md)
 
 ## Dog
-[link](./dog.md)
+[Click for More...](./dog.md)
 
 ## Wolf
-[link](./wolf.md)
+[Click for More...](./wolf.md)
+
+## Tiger
+[Click for More...](./tiger.md)
